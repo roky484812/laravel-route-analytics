@@ -1,12 +1,19 @@
 {
     "name": "roky/laravel-route-analytics",
+    "version": "1.0.0",
     "description": "Dead-simple route usage tracking for Laravel — find unused and slow routes in minutes.",
-    "keywords": ["laravel", "routes", "analytics", "monitoring", "performance"],
+    "keywords": [
+        "laravel",
+        "routes",
+        "analytics",
+        "monitoring",
+        "performance"
+    ],
     "license": "MIT",
     "authors": [
         {
             "name": "Roky",
-            "email": "roky@example.com"
+            "email": "roky484812@gmail.com"
         }
     ],
     "require": {
